@@ -1,5 +1,5 @@
 # Welcome to the Mooltipass Ecosystem GitHub Page!
-You'll find here the repositories for all the elements that make the Mooltipass ecosystem:
+You'll find here the repositories for all the elements that make up the Mooltipass ecosystem:
 - A <a href="https://github.com/mooltipass/minible_hw">physical device</a>, providing all security-related features  
 - Multiple <a href="https://github.com/mooltipass/extension">browser extensions</a> (Chrome, Firefox, Edge, Opera) for easy credentials storage & recall  
 - A <a href="https://github.com/mooltipass/moolticute">cross-plaform user interface</a>, for easy management of the physical device features and database  
