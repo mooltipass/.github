@@ -4,8 +4,8 @@ You'll find here the repositories for all the elements that make up the Mooltipa
 - Multiple <a href="https://github.com/mooltipass/extension">browser extensions</a> (Chrome, Firefox, Edge, Opera) for easy credentials storage & recall  
 - A <a href="https://github.com/mooltipass/moolticute">cross-plaform user interface</a>, for easy management of the physical device features and database  
 - A <a href="https://github.com/mooltipass/moolticute">cross-platform software daemon</a>, serving as an interface between device and software clients  
-- An <a href="https://github.com/raoulh/mc-agent">SSH agent</a>, providing password-less SSH authentication using a Mooltipass device  
-- A <a href="https://github.com/oSquat/mooltipy">python library</a> to recall credentials stored on the Mooltipass
+- An <a href="https://github.com/raoulh/mc-agent">SSH agent</a>, providing password-less SSH authentication using a Mooltipass device
+- A <a href="https://github.com/rsrdesarrollo/moolticutepy/">python library</a> to talk to the Mooltipass through Moolticute
 - A <a href="https://github.com/raoulh/mc-cli">command line tool written in go</a> to interact with the Mooltipass device
 
 # Mooltipass Current Status and Future Goals
@@ -17,4 +17,4 @@ At the time of writing (05/05/2023), the Mooltipass team is currently working on
 - <a href="https://github.com/mooltipass/moolticute/labels/good%20first%20issue">Moolticute good first issues</a>
 
 # New Mooltipass Device
-At the time of writing (05/05/2023), making a new Mooltipass device isn't a priority as the team prefers concentrating its development efforts on adding features to the Mini BLE. However, some effort is currently being spent on exploring new secure elements.
+At the time of writing (09/09/2024), the team is currently working on a next gen device. If you're interested in contributing, please send us a quick email to contributors[at]themooltipass(dot)com!
